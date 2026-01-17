@@ -1,18 +1,1 @@
-{
-    "id": 130849993,
-    "name": "Santiago Challenge",
-    "author": "Zensky",
-    "creators": ["Zensky"],
-    "verifier": "doggie",
-    "verification": "none",
-    "percentToQualify": 100,
-    "password": "Not Copyable",
-    "records": [
-        {
-            "user": "zoinky boy",
-            "link": "nolink",
-            "percent": 100,
-            "hz": 360
-        }
-    ]
-}
+
